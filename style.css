@@ -1,0 +1,19 @@
+body {
+  background-color: #c0b5b5;
+}
+
+#top {
+  background-color: #88b488;
+}
+
+#content {
+  background-color: #707070;
+}
+
+#footer {
+  background-color: #88b488;
+}
+
+a{
+  color:darkgreen;
+}
